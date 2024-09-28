@@ -1,4 +1,4 @@
-# Privacy Policy
+# ListTaskTick Privacy Policy
 
 ## Data
 Unlike other apps/companies I will not take your data without your permission. I will not sell your data or profit in anyway from your data. I will not include adverts. Your data and your device and belongs to you. All personal data is stored locally on your device and is protected from access by other applications.
